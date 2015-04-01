@@ -1,0 +1,25 @@
+// C4D-DialogResource
+
+DIALOGSTRINGS DLG_PTP
+{
+  DLG_PTP        "PTP1";
+  IDC_PTP_ANIM   "Once per picture";
+  IDC_PTP_IN1    "---";
+  IDC_PTP_IN2    "---";
+  IDC_PTP_ST1    "REMOTION";
+  IDC_PTP_ST2    "Effect";
+  IDC_PTP_ST3    "Start Point";
+  IDC_PTP_ST4    "Fix-Object";
+  IDC_PTP_ST5    "Orientation";
+  IDC_PTP_ST6     "Points";
+  IDC_PTP_STIN1  "Object Points / Particle: ";
+  IDC_PTP_STIN2  "Fix-Object Points: ";
+  IDC_PTP_MS1    "MULTI-SPLINE";
+  PST1_0         "None";
+  PST1_1         "Vertex Normal";
+  SYSTYP_0       "Multi Spline First points";
+  SYSTYP_1       "Points";
+  SYSTYP_2       "Object group";
+  SYSTYP_3       "Multi Spline Last points";
+  SYSTYP_4       "At Multi Spline Last point"; 
+}

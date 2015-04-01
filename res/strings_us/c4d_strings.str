@@ -1,0 +1,11 @@
+// C4D-StringResource
+// Identifier	Text
+
+STRINGTABLE
+{
+   IDS_TDEM				"TDEM";
+   IDS_PTP				"TDEM.PTP1";
+   IDS_ESP				"TDEM.ESP1";
+   IDS_TDMENU				"POLYEM-SET";
+   IDS_POLYEM				"POLYEM";
+}

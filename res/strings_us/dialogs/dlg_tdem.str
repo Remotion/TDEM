@@ -1,0 +1,66 @@
+// C4D-DialogResource
+
+DIALOGSTRINGS DLG_TDEM
+{
+  CH_ALPHA           "Alpha";
+  CH_BUMP            "Bump";
+  CH_COLOR           "Color";
+  CH_DIFFUSION       "Diffusion";
+  CH_DISPLACEMENT    "Displacement";
+  CH_ENVIRONMENT     "Environment";
+  CH_LUMINANCE       "Luminance";
+  CH_NONE            "NONE";
+  CH_REFLECTION      "Reflection";
+  CH_SPECULARCOLOR   "Highlight color";
+  CH_TRANSPARENCY    "Transparency";
+  DLG_TDEM           "TDEM  1  REMOTION";
+  IDC_TDM_AT_CB4     "Local position";
+  IDC_TDM_AT_FF4     "Local rotation";
+  IDC_TDM_BT1        "Generate";
+  IDC_TDM_CHD2       "Local position";
+  IDC_TDM_CHECK1     "Random birth locate";
+  IDC_TDM_CHECK2     "Direction control";
+  IDC_TDM_CHECK3     "Destination";
+  IDC_TDM_CHR2       "Local rotation";
+  IDC_TDM_CHS1       "Adjusting speed";
+  IDC_TDM_CHS2       "Attraction";
+  IDC_TDM_DD02       "One";
+  IDC_TDM_DD0        "One";
+  IDC_TDM_DD12       "Always";
+  IDC_TDM_DD1        "Always";
+  IDC_TDM_DD22       "Kill";
+  IDC_TDM_DD2        "Kill";
+  IDC_TDM_DIR11      "Vertex Normal";
+  IDC_TDM_DIR12      "Radiale Direction";
+  IDC_TDM_DIR13      "Emitter Direction";
+  IDC_TDM_DST1       "Orientation";
+  IDC_TDM_EPT_CB4    "Spline Path";
+  IDC_TDM_GRL1       "Source";
+  IDC_TDM_GRL2       "Dest. /  Path";
+  IDC_TDM_GRL3       "Textur";
+  IDC_TDM_GRL4       "Coll / Grav";
+  IDC_TDM_PPCOLL     "Particle Particle Collision";
+  IDC_TDM_ST41_X     "Gravitation X";
+  IDC_TDM_ST41_Y     "Gravitation Y";
+  IDC_TDM_ST41_Z     "Gravitation Z";
+  IDC_TDM_STATIC21   "Path";
+  IDC_TDM_STATIC2    "Emitter";
+  IDC_TDM_STATIC3    "Source";
+  IDC_TDM_STATIC41   "Speed Map";
+  IDC_TDM_STATIC4    "Selection";
+  IDC_TDM_STATIC5_X  "Dispersing X";
+  IDC_TDM_STATIC5_Y  "Dispersing Y";
+  IDC_TDM_STATIC5_Z  "Dispersing Z";
+  IDC_TDM_STATIC5    "Speed";
+  IDC_TDM_STATIC7    "Seed";
+  IDC_TDM_STATIC8    "Selection";
+  IDC_TDM_TBGR1      "";
+  IDC_TDM_TEXT11     "Speed";
+  IDC_TDM_TEXT12     "Speed";
+  IDC_TDM_TEXT13     "Effect";
+  IDC_TDM_TEXT21     "Effect";
+  IDC_TDM_TEXT22     "Effect";
+  IDC_TDM_TEXT31     "Speed Textur";
+  IDC_TDM_TEXT32     "Oversampling";
+  IDC_TDM_TEXT33     "Particle Radius";
+}

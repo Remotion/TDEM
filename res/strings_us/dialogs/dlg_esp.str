@@ -1,0 +1,27 @@
+// C4D-DialogResource
+
+DIALOGSTRINGS DLG_ESP
+{
+  DLG_ESP       "ESP1";
+  IDC_ESP_ANIM  "Once per picture";
+  IDC_ESP_REM   "REMOTION";
+  IDC_ESP_S2T1  "Emitter / Object";
+  IDC_ESP_S2T2  "Oversampling";
+  IDC_ESP_S2T3  "Particle Radius";
+  IDC_ESP_S2T4  ". Point Radius";
+  IDC_ESP_ST1   "Elastik";
+  IDC_ESP_ST2   "Resistance";
+  IDC_ESP_ST3   "MAX length";
+  IDC_ESP_ST4   "Algorithm";
+  IDC_ESP_ST5   "Mass";
+  IDC_ESP_ST6   "Gravitation X";
+  IDC_ESP_ST7   "Gravitation Y";
+  IDC_ESP_ST8   "Gravitation Z";
+  IDC_ESP_ST9   "MIN length";
+  IDC_ESP_TAB1  "System";
+  IDC_ESP_TAB2  "Collision";
+  SYST0         "Standard";
+  SYST1         "Hair 1";
+  SYST2         "Tube";
+  SYST3         "none";
+}
